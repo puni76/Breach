@@ -24,7 +24,7 @@ fun BottomSheetContent(){
             Text(text = "Modal Bottom Sheet", fontSize = 20.sp, modifier = Modifier.padding(10.dp),
             color = Color.White, fontWeight = FontWeight.ExtraBold)
             Divider(modifier = Modifier.padding(5.dp), color = Color.White)
-            Text(text = "Modal Bottom sheets present a set of choices while blocking interaction with the rest of the screen. They are an alternative to inline menus and simple dialogs on mobile, providing additional room for content, iconography, and actions.",
+            Text(text = "Modal Bottom sheets screen.",
                 fontSize = 15.sp,
                 fontStyle = FontStyle.Italic,
                 color = Color.White,
